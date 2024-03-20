@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef4a7876-f2b7-4483-a4a5-50dd918e2ebe" name="Changes" comment="">
+    <list default="true" id="ef4a7876-f2b7-4483-a4a5-50dd918e2ebe" name="Changes" comment="[docs] - 요구사항 리드미 작성">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,8 +60,16 @@
       <option name="presentableId" value="Default" />
       <updated>1710913387418</updated>
       <workItem from="1710913388833" duration="3114000" />
-      <workItem from="1710917117030" duration="826000" />
+      <workItem from="1710917117030" duration="1460000" />
     </task>
+    <task id="LOCAL-00001" summary="[docs] - 요구사항 리드미 작성">
+      <created>1710918107416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710918107416</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[docs] - 요구사항 리드미 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="[docs] - 요구사항 리드미 작성" />
   </component>
 </project>
